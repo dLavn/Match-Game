@@ -1,0 +1,22 @@
+#game div {
+  border: 2px solid black;
+  width: 17%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.faceup {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color:darkgreen;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+  color:darkgreen;
+}
